@@ -12,6 +12,7 @@ Vanilla.js
 This is my first branch
 C++
 SQL
+Python
 Adding stuff in my second branch and change both branch and master.
 
 
